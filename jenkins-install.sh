@@ -16,11 +16,11 @@ if [ $USERID -ne 0 ]; then
 	exit 1
 fi
 
-apt update –y
+apt update 
 
 VALIDATE $? "Updating APT"
 
-ubuntu-linux-extras install openjdk-11-jdk -y
+apt install openjdk-11-jdk -y
 
 VALIDATE $? "Installing OpenJDK 11"
 
@@ -35,11 +35,11 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
 
 VALIDATE $? "Import Jenkin key"
 
-apt upgrade -y
+apt-get update
 
 VALIDATE $? "Upgrade APT"
 
-apt install jenkins -y
+apt-get install jenkins -y
 
 VALIDATE $? "Installing Jenkins"
 
