@@ -20,22 +20,24 @@ apt update –y
 
 VALIDATE $? "Updating APT"
 
-wget -O /etc/apt.repos.d/jenkins.repo \
-    https://pkg.jenkins.io/redhat-stable/jenkins.repo
+ubuntu-linux-extras install openjdk-11-jdk -y
+
+VALIDATE $? "Installing OpenJDK 11"
+
+curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
+  /usr/share/keyrings/jenkins-keyring.asc > /dev/null
 
 VALIDATE $? "Adding Jenkins Repo"
 
-rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
+echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+  https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+  /etc/apt/sources.list.d/jenkins.list > /dev/null
 
 VALIDATE $? "Import Jenkin key"
 
 apt upgrade -y
 
-VALIDATE $? "Upgrade YUM"
-
-amazon-linux-extras install java-openjdk11 -y
-
-VALIDATE $? "Installing OpenJDK 11"
+VALIDATE $? "Upgrade APT"
 
 apt install jenkins -y
 
