@@ -3,7 +3,31 @@ Shell-Scripting (SS)
 
 * Firstly we are using variables, let's get started
 
-* The variables1.sh is 
+### The variables1.sh  
+
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/commit/18d6b2a14412ceefa80ffc6711eabfa04e152467#diff-eb2438092149171548e316f9dda1827048d28e7ef3d5d41b8f49dd267d96fd01) for the first script variables1.
+
+* The output getting
+![preview](Images/ss1.png)
 
 
+### The variables2.sh
+
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/commit/18d6b2a14412ceefa80ffc6711eabfa04e152467#diff-9731339ca5c929ab416ca6bca927204cbc0e0dbf5e5b64f9f3ed3cfe72ea3380) for the script variables2.
+
+* The output getting
+![preview](Images/ss2.png)
+
+
+### The variables3.sh
+
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/commit/18d6b2a14412ceefa80ffc6711eabfa04e152467#diff-7c834c54f7cdb526cf218412de20e1cc43e51d848c5f1540ba6bbb53eef360ac) for the script variables3.
+
+* The output getting
+![preview](Images/ss3.png)
+
+
+### The variables4.sh
+
+* 
 
