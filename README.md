@@ -1,6 +1,25 @@
 Shell-Scripting (SS)
 --------------------
 
+* Pre-requisite: Linux basic knowledge
+
+OS used
+--------
+
+* I am mostly using AWS Linux 2. You can use any OS like Ubuntu, Centos, etc. Few commands will be changed based on OS.
+    * For Ubuntu username is ubuntu.
+    * For Centos username is centos.
+    * For AWS Linux 2 username is ec2-user.
+
+### The hello-world.sh
+
+```bash
+#!/bin/bash
+
+echo "Hello World"
+```
+![preview](Images/ss5.png)
+
 * Firstly we are using variables, let's get started
 
 ### The variables1.sh  
@@ -29,5 +48,10 @@ Shell-Scripting (SS)
 
 ### The variables4.sh
 
-* 
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/commit/d370311e1a857d5d53e97773a46d8858b667a7a2#diff-670efdd233050912b7bc78e17773b4d26333a81d794616cbc8afa2b50e09f62c) for the script variables4.
+
+* The output getting
+![preview](Images/ss4.png)
+
+
 
