@@ -54,4 +54,12 @@ echo "Hello World"
 ![preview](Images/ss4.png)
 
 
+### The exit-status.sh
 
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/commit/b6708d8d37f06b8d3b05b3151fca45e6d991242f#diff-4ba99d10b4d7a5f8b4ea1343e06b2cba203f6fb97a3b979f4bef1310ae2d91b9) for the script exit-status.
+
+* The getting output
+![preview](Images/ss6.png)
+
+
+### 
