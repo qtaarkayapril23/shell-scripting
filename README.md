@@ -72,4 +72,9 @@ echo "Hello World"
 
 ### The git-install.sh
 
-* [refer here]()
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/git-install.sh/) for the script git-install.sh
+
+* The getting output
+![preview](Images/ss8.png)
+
+
