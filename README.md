@@ -1,3 +1,9 @@
-# shell-scripting
-This repository is for shell scripting
-This is for main purpose
+Shell-Scripting (SS)
+--------------------
+
+* Firstly we are using variables, let's get started
+
+* The variables1.sh is 
+
+
+
