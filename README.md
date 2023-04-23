@@ -88,4 +88,11 @@ echo "Hello World"
 
 ### The jenkins-install.sh
 
-* [refer here]
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/jenkins-install.sh) for the script jenkins-install.sh
+
+* The getting output
+![preview](Images/ss10.png)
+![preview](Images/ss11.png)
+![preview](Images/ss12.png)
+
+![preview](Images/Thank%20you%20.png)
