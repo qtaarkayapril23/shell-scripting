@@ -78,3 +78,14 @@ echo "Hello World"
 ![preview](Images/ss8.png)
 
 
+### The functions.sh
+
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/functions.sh) for the script functions.sh
+
+* The getting output
+![preview](Images/ss9.png)
+
+
+### The jenkins-install.sh
+
+* [refer here]
