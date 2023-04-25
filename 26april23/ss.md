@@ -66,9 +66,8 @@ Shell Scripting for DevOps with Examples
 
 * Here’s an example of using if-else statements in shell scripting to compare two numbers:
 
-```bash
-
-```
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/26april23/myscript3.sh) for the myscript3.sh
+![preview](Images/ss3.png)
 
 * In this example, we assign the values 5 and 10 to the variables “num1” and “num2”, respectively. 
 * We then use if-else statements to compare these two numbers.
@@ -85,3 +84,8 @@ Shell Scripting for DevOps with Examples
 * To execute this script, you can save it to a file with a “.sh” extension (e.g. “my_script.sh”), make it executable with the command “chmod +x my_script.sh”, and then run it using “./my_script.sh”. 
 * The output will be the message “$num1 is less than $num2”, since 5 is less than 10.
 
+
+
+![preview](Images/Thank%20you%20.png)
+
+* *Thankyou for reading.*
