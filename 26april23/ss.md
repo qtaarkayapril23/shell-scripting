@@ -39,11 +39,7 @@ Shell Scripting for DevOps with Examples
 
 * Here’s an example of a simple shell script that will print the message “I will complete #110 Days Of DevOps challenge” to the console:
 
-```bash
-#!/bin/bash
-
-echo "I will complete #110 Days Of DevOps challenge"
-```
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/26april23/myscript1.sh) for the myscript1.sh
 ![preview](Images/ss1.png)
 
 * This script uses the “echo” command to output the message to the console. 
@@ -57,20 +53,7 @@ echo "I will complete #110 Days Of DevOps challenge"
 * Here’s an example of a shell script that takes user input, input from arguments, and prints the variables:
 
 ```bash
-#!/bin/bash
 
-# Take user input
-echo "Enter your name:"
-read name
-
-# Take input from arguments
-arg1=$1
-arg2=$2
-
-# Print the variables
-echo "Your name is: $name"
-echo "Argument 1 is: $arg1"
-echo "Argument 2 is: $arg2"
 ```
 
 * This script prompts the user to enter their name, reads the input into the variable “name”, and then assigns the first two command-line arguments to the variables “arg1” and “arg2”. 
