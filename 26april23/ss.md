@@ -52,9 +52,8 @@ Shell Scripting for DevOps with Examples
 
 * Here’s an example of a shell script that takes user input, input from arguments, and prints the variables:
 
-```bash
-
-```
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/26april23/myscript2.sh) for the myscript2.sh
+![preview](Images/ss2.png)
 
 * This script prompts the user to enter their name, reads the input into the variable “name”, and then assigns the first two command-line arguments to the variables “arg1” and “arg2”. 
 * It then uses the “echo” command to print the values of these variables to the console, along with some descriptive text.
@@ -68,22 +67,7 @@ Shell Scripting for DevOps with Examples
 * Here’s an example of using if-else statements in shell scripting to compare two numbers:
 
 ```bash
-#!/bin/bash
 
-# Assign two numbers to variables
-num1=5
-num2=10
-
-# Compare the numbers using if-else statements
-if [ $num1 -gt $num2 ]
-then
-  echo "$num1 is greater than $num2"
-elif [ $num1 -lt $num2 ]
-then
-  echo "$num1 is less than $num2"
-else
-  echo "$num1 is equal to $num2"
-fi
 ```
 
 * In this example, we assign the values 5 and 10 to the variables “num1” and “num2”, respectively. 
