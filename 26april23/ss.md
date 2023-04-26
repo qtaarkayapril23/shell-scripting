@@ -87,7 +87,8 @@ Shell Scripting for DevOps with Examples
 
 ### The jenkins-install-modify.sh
 
-* [Refer Here]
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/26april23/jenkins-install-modify.sh) for the modified jenkins-install-modify.sh
+
 
 
 
