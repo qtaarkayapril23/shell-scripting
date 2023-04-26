@@ -85,6 +85,11 @@ Shell Scripting for DevOps with Examples
 * The output will be the message “$num1 is less than $num2”, since 5 is less than 10.
 
 
+### The jenkins-install-modify.sh
+
+* [Refer Here]
+
+
 
 ![preview](Images/Thank%20you%20.png)
 
