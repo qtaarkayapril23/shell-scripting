@@ -24,7 +24,7 @@ echo "Hello World"
 
 ### The variables1.sh  
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/variables1.sh) for the first script variables1.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/variables1.sh) for the first script variables1.sh
 
 * The output getting
 ![preview](Images/ss1.png)
@@ -32,7 +32,7 @@ echo "Hello World"
 
 ### The variables2.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/variables2.sh) for the script variables2.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/variables2.sh) for the script variables2.sh
 
 * The output getting
 ![preview](Images/ss2.png)
@@ -40,7 +40,7 @@ echo "Hello World"
 
 ### The variables3.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/variables3.sh) for the script variables3.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/variables3.sh) for the script variables3.sh
 
 * The output getting
 ![preview](Images/ss3.png)
@@ -48,7 +48,7 @@ echo "Hello World"
 
 ### The variables4.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/variables4.sh) for the script variables4.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/variables4.sh) for the script variables4.sh
 
 * The output getting
 ![preview](Images/ss4.png)
@@ -56,7 +56,7 @@ echo "Hello World"
 
 ### The exit-status.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/exit-status.sh) for the script exit-status.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/exit-status.sh) for the script exit-status.sh
 
 * The getting output
 ![preview](Images/ss6.png)
@@ -64,7 +64,7 @@ echo "Hello World"
 
 ### The condition.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/condition.sh) for the script condition.sh 
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/condition.sh) for the script condition.sh 
 
 * The getting output
 ![preview](Images/ss7.png)
@@ -72,7 +72,7 @@ echo "Hello World"
 
 ### The git-install.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/git-install.sh/) for the script git-install.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/git-install.sh/) for the script git-install.sh
 
 * The getting output
 ![preview](Images/ss8.png)
@@ -80,7 +80,7 @@ echo "Hello World"
 
 ### The functions.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/functions.sh) for the script functions.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/functions.sh) for the script functions.sh
 
 * The getting output
 ![preview](Images/ss9.png)
@@ -88,7 +88,7 @@ echo "Hello World"
 
 ### The jenkins-install.sh
 
-* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/jenkins-install.sh) for the script jenkins-install.sh
+* [refer here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/24april23/jenkins-install.sh) for the script jenkins-install.sh
 
 * The getting output
 ![preview](Images/ss10.png)
@@ -96,3 +96,4 @@ echo "Hello World"
 ![preview](Images/ss12.png)
 
 ![preview](Images/Thank%20you%20.png)
+* *Thankyou for reading*.
