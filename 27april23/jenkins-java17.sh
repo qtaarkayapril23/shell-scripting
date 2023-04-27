@@ -8,3 +8,5 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
   /etc/apt/sources.list.d/jenkins.list > /dev/null
 apt update
 apt install jenkins -y
+java --vesion
+jenkins --version
