@@ -90,3 +90,6 @@ sh install-kubeadm.sh
 ```
 ![Preview](Images/ss5.png)
 ![Preview](Images/ss6.png)
+
+THANKYOU FOR READING!
+![Preview](Images/Thank%20you%20.png)
