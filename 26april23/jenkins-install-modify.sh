@@ -40,11 +40,11 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
 
 VALIDATE $? "Import Jenkin key"
 
-apt-get update
+apt update
 
-VALIDATE $? "Upgrade APT"
+VALIDATE $? "Update APT"
 
-apt-get install jenkins -y
+apt install jenkins -y
 
 VALIDATE $? "Installing Jenkins"
 
@@ -58,3 +58,11 @@ VALIDATE $? "Starting Jenkins"
 
 # lsss &>>$LOG
 # VALIDATE $? "creating error"
+
+java --version
+
+VALIDATE $? "Checking the version of javaJ"
+
+jenkins --version
+
+VALIDATE $? "Checking the version of jenkins"
