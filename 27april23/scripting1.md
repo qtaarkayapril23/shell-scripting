@@ -12,40 +12,12 @@ Live Example
 
 * We have written two scripts
 * Shell Script
-```shell
-#!/bin/bash
-tempfile="/tmp/available.$$"
-trap "rm -f $tempfile" EXIT
-
-cat << 'EOF' > $tempfile    
-    { sum += $4 }
-END {
-    mb = sun/1024
-    gb = mb/1024
-    printf "%.of MB (%GB) of available diskspace\n", gb
-}
-EOF
-
-df -k | awk -f $tempfile
-exit 0
-```
-
+    * [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/diskspace.sh) for the script of shell.
+![Preview]
 
 * Python script
-
-```python
-#!/usr/bin/env python3
-
-import shutil
-
-path = "/"
-
-total, used, free = shutil.disk_usage(path)
-
-print("Total: %d GiB", (total //(2**30)))
-print("used: %d GiB", (used //(2**30)))
-print("free: %d GiB", (free //(2**30)))
-```
+    * [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/diskspace.py) for the script of python.
+![Preview]
 
 
 Approach - Part 1
@@ -56,9 +28,12 @@ Approach - Part 1
 
 ### Lets write a script to install docker
 * Create a script (`installdocker.sh`) with following content 
-* [Refer Here]
-![Preview]
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/installdocker.sh) for the script of installdocker.sh
+![Preview](Images/ss7.png)
 * Now give execute permissions and run the script `<path/>installdocker.sh`
+
+
+
 
 ### Exercise
 
