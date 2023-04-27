@@ -72,14 +72,14 @@ sh get-docker.sh
 * Note: all the scripts will be run as a root user
 
 ### Workout for Exercise
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/jenkins-java11.sh) for the script of install jenkins with java 11.
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/jenkins-java11.sh) for the script of install jenkins with java 11 as a root user.
 ![Preview](Images/ss1.png)
 ![Preview](Images/ss2.png)
 
-* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/jenkins-java17.sh) for the script of isntall jenkins with java 17.
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/jenkins-java17.sh) for the script of isntall jenkins with java 17 as a root user.
 ![Preview](Images/ss3.png)
 ![Preview](Images/ss4.png)
 
-* [Refer Here]
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/27april23/install-kubeadm.sh) for the script of installing kubeadm as a root user.
 ![Preview](Images/ss5.png)
 ![Preview](Images/ss6.png)
