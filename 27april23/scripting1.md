@@ -56,11 +56,8 @@ Approach - Part 1
 
 ### Lets write a script to install docker
 * Create a script (`installdocker.sh`) with following content 
-```bash
-#!/bin/bash
-curl -fsSL https://get.docker.com -o get-docker.sh
-sh get-docker.sh
-```
+* [Refer Here]
+![Preview]
 * Now give execute permissions and run the script `<path/>installdocker.sh`
 
 ### Exercise
