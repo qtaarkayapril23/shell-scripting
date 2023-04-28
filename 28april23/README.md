@@ -19,6 +19,7 @@ sudo sh installjenkins.sh
 ![Preview](Images/ss3.png)
 
 * Lets try to look at this script in a different way by drawing a flow chart
+
 ![Preview](Images/ss1.png)
 
 * Lets try to draw a flow chart which will install jenkins on ubuntu and redhat systems
@@ -76,8 +77,15 @@ sudo ./installjenkinsmulti.sh
 
 * For redhat
 ![Preview](Images/ss12.png)
-![Preview]
+![Preview](Images/ss13.png)
+![Preview](Images/ss14.png)
+![Preview](Images/ss15.png)
+* The above its shows the error it can be resolved later.
 
 * For ubuntu
 ![Preview](Images/ss10.png)
 ![Preview](Images/ss11.png)  
+
+* *THANKYOU FOR READING!.*
+
+![Preview](Images/Thank%20you%20.png)

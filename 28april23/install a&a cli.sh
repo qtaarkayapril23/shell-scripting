@@ -17,9 +17,8 @@ then
     VALIDATE $? "This is for checking java version"
     jenkins --version
     VALIDATE $? "This is for checking jenkins version"
-    curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-    unzip awscliv2.zip
-    sudo ./aws/install   
+    dnf install python3-pip
+    pip3 install awscli --upgrade --user
     aws --version
     VALIDATE $? "This is for checking awscli version in redhat"
     curl -sL https://azurecliprod.blob.core.windows.net/rhel7_6_install.sh | sudo bash
