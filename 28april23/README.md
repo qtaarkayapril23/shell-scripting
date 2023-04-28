@@ -12,6 +12,7 @@ More on Scripting
 * [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install-jenkins-java11.sh) for the script to install jenkins with java 11.
 ```
 sudo vi installjenkins.sh
+sudo chmod +x installjenkins.sh
 sudo sh installjenkins.sh
 ```
 ![Preview](Images/ss2.png)
@@ -24,13 +25,24 @@ sudo sh installjenkins.sh
 ![Preview](Images/ss4.png)
 
 * Below is the script to install jenkins on redhat as well as ubuntu systems
-* 
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install-jenkins.sh) for the script to install jenkins on both ubuntu and redhat.
+```
+sudo vi installjenkinsmulti.sh
+sudo chmod +x installjenkinsmulti.sh
+sudo ./installjenkinsmulti.sh
+```
+* For Redhat
+![Preview](Images/ss5.png)
+![Preview](Images/ss6.png)
+* For ubuntu
+![Preview](Images/ss7.png)
+![Preview](Images/ss8.png)
 
 ### Expression
 * An expression is combination of operands and operators which return some value
 
 ### Operators in bash
-
+* [Refer Here](https://tldp.org/LDP/abs/html/ops.html) or operators in bash
 
 ### Conditional statements
 * We have 4 conditional statements
@@ -44,10 +56,11 @@ sudo sh installjenkins.sh
 * [Refer Here](https://devhints.io/bash) for the cheatsheet of bash
 
 * Style Guide:
-    * Shell:
-    * Python:
+    * Shell:[Refer Here](https://google.github.io/styleguide/shellguide.html)
+    * Python:[Refer Here](https://google.github.io/styleguide/pyguide.html)
 ### Installation
-
+* Install draw.io from diagrams.net [Refer Here](https://www.diagrams.net/)
+  
 ### Exercise
 * Write a shell script to do the following
     * If the os is redhat 
@@ -59,5 +72,12 @@ sudo sh installjenkins.sh
         * install azurecli
 
 ### Workout for the Exercise
+* ![Preview](Images/ss9.png)
 
-*  
+* For redhat
+![Preview](Images/ss12.png)
+![Preview]
+
+* For ubuntu
+![Preview](Images/ss10.png)
+![Preview](Images/ss11.png)  
