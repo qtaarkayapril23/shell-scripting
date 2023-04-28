@@ -74,6 +74,7 @@ sudo ./installjenkinsmulti.sh
 
 ### Workout for the Exercise
 * ![Preview](Images/ss9.png)
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install%20a%26a%20cli.sh) for the script to install jenkins and awscli & azurecli on redhat, and also awscli and azurecli on ubuntu.
 
 * For redhat
 ![Preview](Images/ss12.png)
