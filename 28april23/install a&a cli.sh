@@ -17,11 +17,14 @@ then
     VALIDATE $? "This is for checking java version"
     jenkins --version
     VALIDATE $? "This is for checking jenkins version"
-    dnf install python3-pip
-    pip3 install awscli --upgrade --user
+    sudo yum install unzip* -y 
+    curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+    unzip awscliv2.zip -y
+    sudo ./aws/install -y
     aws --version
     VALIDATE $? "This is for checking awscli version in redhat"
-    curl -sL https://azurecliprod.blob.core.windows.net/rhel7_6_install.sh | sudo bash
+    #curl -L https://aka.ms/InstallAzureCli | bash -y  
+    sudo dnf install -y https://packages.microsoft.com/config/rhel/8/packages-microsoft-prod.rpm
     az --version
     VALIDATE $? "This is for checking azurecli version in redhat"
 elif [[ $distribution == "ubuntu" ]]

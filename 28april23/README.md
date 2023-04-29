@@ -82,11 +82,13 @@ sudo ./installjenkinsmulti.sh
 ![Preview](Images/ss14.png)
 ![Preview](Images/ss15.png)
 * The above its shows the error it can be resolved later.
+* [Refer Here]
+![Preview](Images/ss16.png)
 
 * For ubuntu
 ![Preview](Images/ss10.png)
 ![Preview](Images/ss11.png)  
 
-* *THANKYOU FOR READING!.*
+* *THANKYOU FOR READING!*
 
 ![Preview](Images/Thank%20you%20.png)
