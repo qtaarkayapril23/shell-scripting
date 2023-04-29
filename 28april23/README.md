@@ -81,8 +81,9 @@ sudo ./installjenkinsmulti.sh
 ![Preview](Images/ss13.png)
 ![Preview](Images/ss14.png)
 ![Preview](Images/ss15.png)
-* The above its shows the error it can be resolved later.
-* [Refer Here]
+
+* The above its shows the error it can be resolved now.
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/28april23/install%20a&a%20cli.sh) for the script changeset.
 ![Preview](Images/ss16.png)
 
 * For ubuntu
