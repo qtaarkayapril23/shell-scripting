@@ -20,7 +20,7 @@ then
     sudo yum install unzip* -y 
     curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
     unzip awscliv2.zip -y
-    sudo ./aws/install -y
+    sudo ./aws/install
     aws --version
     VALIDATE $? "This is for checking awscli version in redhat"
     #curl -L https://aka.ms/InstallAzureCli | bash -y  
