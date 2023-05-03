@@ -15,8 +15,9 @@
 #     # echo "Area of a circle is $AREA" 
 # done    
 
-read -p "Enter Principal amount: " principal
-read -p "Enter time (in years): " time
-read -p "Enter Rate of Interest: " rate
-si=$(echo "scale=2; (($principal * $time * $rate) / 100)" | bc)
-echo "simple interest: $si"
+echo -n "Enter the radius here: "
+read r
+radius_square=`echo $r \* $r | bc -l`
+pi=`echo 3.142 | bc -l`
+AREA=`echo $radius_square \* $pi | bc`
+echo "Area of the circle is: $AREA"
