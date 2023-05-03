@@ -5,7 +5,7 @@ do
     echo -e "\n Enter Subject $i: "
     read marks[$i]
 done
-total=((marks[1]+marks[2]+marks[3]+marks[4]+marks[5]+marks[6]))
+total=$((marks[1]+marks[2]+marks[3]+marks[4]+marks[5]+marks[6]))
 avg=$((total/6))
 
 if [ $avg -ge 80 ]
