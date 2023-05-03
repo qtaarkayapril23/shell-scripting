@@ -144,6 +144,10 @@ fi
 
 * Take marks from 6 subjects of your choice and calculate average marks. based of that decide grades.
 
-* [Refer Here]()
+* [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/03may23-Khaja/loops/average.sh) for the script of average.sh
 
 ![Preview](Images/ss4.png)
+
+* THANK YOU FOR READING!
+
+![Preview](Images/Thank%20you%20.png)
