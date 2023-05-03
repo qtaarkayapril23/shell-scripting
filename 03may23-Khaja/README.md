@@ -131,10 +131,19 @@ fi
 ### Workout for Exercises
 
 * Take 3 inputs p,t,r and calculate simple intrest.
+
 * [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/03may23-Khaja/loops/simpleinterest.sh) for the script of simpleinterest.sh
+
 ![Preview](Images/ss2.png)
 
 * Take 1 input r (radius of circle) and calculate area `A=πr2`
+
 * [Refer Here](https://github.com/qtaarkayapril23/shell-scripting/blob/main/03may23-Khaja/loops/calarea.sh) for the script of calarea.sh
+
 ![Preview](Images/ss3.png)
 
+* Take marks from 6 subjects of your choice and calculate average marks. based of that decide grades.
+
+* [Refer Here]()
+
+![Preview](Images/ss4.png)
