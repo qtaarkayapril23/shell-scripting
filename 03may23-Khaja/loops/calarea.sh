@@ -19,5 +19,5 @@ echo -n "Enter the radius here: "
 read r
 radius_square=`echo $r \* $r | bc -l`
 pi=`echo 3.142 | bc -l`
-AREA=`echo $radius_square \* $pi | bc`
+AREA=`echo $radius_square \* $pi | bc -l`
 echo "Area of the circle is: $AREA"
