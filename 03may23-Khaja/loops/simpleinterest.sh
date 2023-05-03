@@ -9,3 +9,4 @@ read r
 si=`expr $p \* $t \* $r / 100`
 echo " The simple interest is "
 echo $si
+
